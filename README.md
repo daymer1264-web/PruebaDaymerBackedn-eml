@@ -22,7 +22,7 @@ Git
 
 Instalacion
 1 Clonar el repositorio
-git clone https://github.com/tu-usuario/eml-backend.git
+git clone https://github.com/daymer1264-web/PruebaDaymerBackedn-eml.git
 cd PruebaDaymer
 
 2 Instalar dependencias
